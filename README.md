@@ -1,6 +1,6 @@
 Welcome to CS109: Data Science local page for buzyjess
 =======
-@Author Jeslin Cyriac 
+@Author buzyjess
 @Original Copy CS109 course material
 *[Official Course Page](http://cs109.org)*
 
